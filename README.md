@@ -7,14 +7,14 @@ My background in the Oil and Gas industry provided a firsthand look at the criti
 
 I am constantly exploring new technologies and methodologies, from the command line to the cloud. I thrive on the challenge of understanding how systems work so I can learn how to best protect them. My goal is to build a comprehensive skill set to become a versatile and effective security professional.
 
-###My Evolving Skillset
+My Evolving Skillset
 * Defensive Security (Blue Team): Threat hunting, network security monitoring (NSM).
 * Threat Intelligence & OSINT: Gathering and analyzing data to identify and track potential threats.
 * Vulnerability Management: Identifying, assessing, and remediating security weaknesses.
 * Cloud Security: Exploring security principles within AWS, Azure, and GCP environments.
 * Security Automation: Using Bash and Python to build tools and automate repetitive tasks.
 
-###Tech, Tools & Platforms
+Tech, Tools & Platforms
 
 Languages: Python, Bash
 
