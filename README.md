@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm seabashsec</h1>
+<h1 align="center">Hi there, I'm SeaBashsec</h1>
 
 An Oil & Gas professional transitioning into the world of Cybersecurity, driven by a passion for continuous learning and defensive security.
 
