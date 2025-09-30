@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm seabashsec</h1>
-<p align="center">
+
 An Oil & Gas professional transitioning into the world of Cybersecurity, driven by a passion for continuous learning and defensive security.
-</p>
+
 
 My background in the Oil and Gas industry provided a firsthand look at the critical importance of securing both corporate and operational technology (OT) systems. This experience sparked my journey into cybersecurity, which has grown into a passion for the entire defensive landscape.
 
